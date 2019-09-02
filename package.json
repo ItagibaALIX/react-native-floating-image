@@ -1,0 +1,26 @@
+{
+  "name": "react-native-floating-image",
+  "version": "1.0.0",
+  "description": "create animate floating image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItagibaALIX/react-native-floating-image.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "animate",
+    "floating",
+    "image"
+  ],
+  "author": "Itagiba ALIX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItagibaALIX/react-native-floating-image/issues"
+  },
+  "homepage": "https://github.com/ItagibaALIX/react-native-floating-image#readme"
+}

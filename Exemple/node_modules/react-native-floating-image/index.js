@@ -1,0 +1,1 @@
+export { AnimatedEFloatingImageCreatormoji } from './lib';
